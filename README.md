@@ -1,2 +1,2 @@
-PROJECT
+PROJECT:
   Login and Registration using HTML,CSS,JAVASCRIPT,MYSQL,PHP,BOOTSTRAP  
